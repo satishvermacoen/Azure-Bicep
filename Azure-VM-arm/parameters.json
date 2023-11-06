@@ -6,7 +6,7 @@
             "value": "centralindia"
         },
         "networkInterfaceName": {
-            "value": "vm172"
+            "value": "vm171"
         },
         "networkSecurityGroupName": {
             "value": "vm-nsg"
@@ -50,7 +50,7 @@
             ]
         },
         "publicIpAddressName": {
-            "value": "vm-ip"
+            "value": "vm-ip2"
         },
         "publicIpAddressType": {
             "value": "Static"
@@ -65,7 +65,7 @@
             "value": "vm"
         },
         "virtualMachineComputerName": {
-            "value": "vm"
+            "value": "vm2"
         },
         "virtualMachineRG": {
             "value": "vmbicep"
@@ -89,7 +89,7 @@
             "value": "satish"
         },
         "adminPassword": {
-            "value": null
+            "value": "@Password12345"
         },
         "securityType": {
             "value": "TrustedLaunch"
