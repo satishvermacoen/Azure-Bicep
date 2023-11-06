@@ -173,7 +173,7 @@
                         "deleteOption": "[parameters('osDiskDeleteOption')]"
                     },
                     "imageReference": {
-                        "publisher": "canonical",
+                        "cuublisher": "canonical",
                         "offer": "0001-com-ubuntu-server-focal",
                         "sku": "20_04-lts-gen2",
                         "version": "latest"
